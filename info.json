@@ -1,419 +1,291 @@
 {
     "available_space": true,
-    "size_max": 34.60705280303955,
-    "size_mean": 9.976933060622796,
+    "size_max": 36.089120864868164,
+    "size_mean": 10.204200653319663,
     "size_min": 0.4169321060180664,
-    "total_size": 818.1085109710693,
+    "total_size": 959.1948614120483,
     "video_list": {
         "'Margarita se llama mi amor'-mDxSmEtkG9w.mp4": {
-            "image": "https://i.ytimg.com/vi/mDxSmEtkG9w/hqdefault.jpg",
-            "size": 5.937765121459961,
-            "url": "https://github.com/circuitalmynds/music_m/blob/main/videos/'Margarita%20se%20llama%20mi%20amor'-mDxSmEtkG9w.mp4?raw=true"
-        },
-        "AMOR DE ESTUDIANTE  ROBERTO JORDAN 1968-0-xWSfFv-CE.mp4": {
-            "image": "https://circuitalminds.github.io/static/images/desktop/julia.gif",
-            "size": 9.546300888061523,
-            "url": "https://github.com/circuitalmynds/music_m/blob/main/videos/AMOR%20DE%20ESTUDIANTE%20%20ROBERTO%20JORDAN%201968-0-xWSfFv-CE.mp4?raw=true"
-        },
-        "America - A horse with no name (clip HQ)-Tm4BrZjY_Sg.mp4": {
-            "image": "https://i.ytimg.com/vi/Tm4BrZjY_Sg/hqdefault.jpg",
-            "size": 13.327964782714844,
-            "url": "https://github.com/circuitalmynds/music_m/blob/main/videos/America%20-%20A%20horse%20with%20no%20name%20(clip%20HQ)-Tm4BrZjY_Sg.mp4?raw=true"
-        },
-        "America - Sister Golden Hair 1975 (1977, HQ)-3oNULFXLuMc.mp4": {
-            "image": "https://i.ytimg.com/vi/3oNULFXLuMc/hqdefault.jpg",
-            "size": 12.116982460021973,
-            "url": "https://github.com/circuitalmynds/music_m/blob/main/videos/America%20-%20Sister%20Golden%20Hair%201975%20(1977%2C%20HQ)-3oNULFXLuMc.mp4?raw=true"
-        },
-        "America- Tin Man (w_ lyrics)-7uJL8er_tV0.mp4": {
-            "image": "https://i.ytimg.com/vi/7uJL8er_tV0/hqdefault.jpg",
-            "size": 8.648455619812012,
-            "url": "https://github.com/circuitalmynds/music_m/blob/main/videos/America-%20Tin%20Man%20(w_%20lyrics)-7uJL8er_tV0.mp4?raw=true"
-        },
-        "Amor A La Ligera-aDEj38yiG-0.mp4": {
-            "image": "https://circuitalminds.github.io/static/images/desktop/julia.gif",
-            "size": 5.401447296142578,
-            "url": "https://github.com/circuitalmynds/music_m/blob/main/videos/Amor%20A%20La%20Ligera-aDEj38yiG-0.mp4?raw=true"
-        },
-        "Amor Platonico-HuoJBkv3Jvc.mp4": {
-            "image": "https://i.ytimg.com/vi/HuoJBkv3Jvc/hqdefault.jpg",
-            "size": 2.2153310775756836,
-            "url": "https://github.com/circuitalmynds/music_m/blob/main/videos/Amor%20Platonico-HuoJBkv3Jvc.mp4?raw=true"
-        },
-        "Amor de Mas-Qy1SOdEOAgk.mp4": {
-            "image": "https://i.ytimg.com/vi/Qy1SOdEOAgk/hqdefault.jpg",
-            "size": 6.421136856079102,
-            "url": "https://github.com/circuitalmynds/music_m/blob/main/videos/Amor%20de%20Mas-Qy1SOdEOAgk.mp4?raw=true"
-        },
-        "Amor sucio - Robe con Capitan Kavernikola-j1TBXUjGnGE.mp4": {
-            "image": "https://i.ytimg.com/vi/j1TBXUjGnGE/hqdefault.jpg",
-            "size": 6.303859710693359,
-            "url": "https://github.com/circuitalmynds/music_m/blob/main/videos/Amor%20sucio%20-%20Robe%20con%20Capitan%20Kavernikola-j1TBXUjGnGE.mp4?raw=true"
-        },
-        "Amour plastique.mp4": {
-            "image": "https://circuitalminds.github.io/static/images/desktop/julia.gif",
-            "size": 7.3083391189575195,
-            "url": "https://github.com/circuitalmynds/music_m/blob/main/videos/Amour%20plastique.mp4?raw=true"
-        },
-        "Emperor - Curse You All Men !-mEApWIAaiDk.mp4": {
-            "image": "https://i.ytimg.com/vi/mEApWIAaiDk/hqdefault.jpg",
-            "size": 22.960765838623047,
-            "url": "https://github.com/circuitalmynds/music_m/blob/main/videos/Emperor%20-%20Curse%20You%20All%20Men%20!-mEApWIAaiDk.mp4?raw=true"
-        },
-        "Emperor - I Am the Black Wizards-YgQRRI9goFg.mp4": {
-            "image": "https://i.ytimg.com/vi/YgQRRI9goFg/hqdefault.jpg",
-            "size": 14.444046974182129,
-            "url": "https://github.com/circuitalmynds/music_m/blob/main/videos/Emperor%20-%20I%20Am%20the%20Black%20Wizards-YgQRRI9goFg.mp4?raw=true"
-        },
-        "Emperor - Night of the Graveless Souls (w_ lyrics)-Sr4rmY6bTSk.mp4": {
-            "image": "https://i.ytimg.com/vi/Sr4rmY6bTSk/hqdefault.jpg",
-            "size": 4.975024223327637,
-            "url": "https://github.com/circuitalmynds/music_m/blob/main/videos/Emperor%20-%20Night%20of%20the%20Graveless%20Souls%20(w_%20lyrics)-Sr4rmY6bTSk.mp4?raw=true"
+            "size": 5.937765121459961
         },
         "MAKILADORAS - Niemand Weet Wat De Toekomst Brengt-ynDdMg1vgiw.mp4": {
-            "image": "https://i.ytimg.com/vi/ynDdMg1vgiw/hqdefault.jpg",
-            "size": 24.236260414123535,
-            "url": "https://github.com/circuitalmynds/music_m/blob/main/videos/MAKILADORAS%20-%20Niemand%20Weet%20Wat%20De%20Toekomst%20Brengt-ynDdMg1vgiw.mp4?raw=true"
+            "size": 24.236260414123535
         },
         "MARCA REGISTRADA _ SIGAN ATENTOS (2020)-nrLYljedMXE.mp4": {
-            "image": "https://i.ytimg.com/vi/nrLYljedMXE/hqdefault.jpg",
-            "size": 16.50238800048828,
-            "url": "https://github.com/circuitalmynds/music_m/blob/main/videos/MARCA%20REGISTRADA%20_%20SIGAN%20ATENTOS%20(2020)-nrLYljedMXE.mp4?raw=true"
+            "size": 16.50238800048828
         },
         "MERCEDES SOSA - Soy pan, soy paz, soy m\u00e1s (HD)-0SL6BEgaFIU.mp4": {
-            "image": "https://i.ytimg.com/vi/0SL6BEgaFIU/hqdefault.jpg",
-            "size": 16.19358730316162,
-            "url": "https://github.com/circuitalmynds/music_m/blob/main/videos/MERCEDES%20SOSA%20-%20Soy%20pan%2C%20soy%20paz%2C%20soy%20m%C3%A1s%20(HD)-0SL6BEgaFIU.mp4?raw=true"
+            "size": 16.19358730316162
+        },
+        "MGMT - Little Dark Age (Video)-rtL5oMyBHPs.mp4": {
+            "size": 17.133519172668457
+        },
+        "MGMT - Time To Pretend-B9dSYgd5Elk.mp4": {
+            "size": 20.82405948638916
         },
         "MIKE GLC - LETTER TO MY GIRLFRIEND VIDEO-deoiMMOtotI.mp4": {
-            "image": "https://i.ytimg.com/vi/deoiMMOtotI/hqdefault.jpg",
-            "size": 12.99716567993164,
-            "url": "https://github.com/circuitalmynds/music_m/blob/main/videos/MIKE%20GLC%20-%20LETTER%20TO%20MY%20GIRLFRIEND%20VIDEO-deoiMMOtotI.mp4?raw=true"
+            "size": 12.99716567993164
+        },
+        "MISFITS - London Dungeon (audio with lyrics)-KLCvMGLTEaM.mp4": {
+            "size": 6.3434858322143555
         },
         "MUNICIPAL WASTE - You're Cut Off (OFFICIAL MUSIC VIDEO)-rtOyqrNPzsY.mp4": {
-            "image": "https://i.ytimg.com/vi/rtOyqrNPzsY/hqdefault.jpg",
-            "size": 7.196507453918457,
-            "url": "https://github.com/circuitalmynds/music_m/blob/main/videos/MUNICIPAL%20WASTE%20-%20You're%20Cut%20Off%20(OFFICIAL%20MUSIC%20VIDEO)-rtOyqrNPzsY.mp4?raw=true"
+            "size": 7.196507453918457
         },
         "Made of Stone - Tied to Me (lyrics)-qG8hffqK88E.mp4": {
-            "image": "https://i.ytimg.com/vi/qG8hffqK88E/hqdefault.jpg",
-            "size": 14.345734596252441,
-            "url": "https://github.com/circuitalmynds/music_m/blob/main/videos/Made%20of%20Stone%20-%20Tied%20to%20Me%20(lyrics)-qG8hffqK88E.mp4?raw=true"
+            "size": 14.345734596252441
         },
         "Madness - One Step Beyond (Official Video)-SOJSM46nWwo.mp4": {
-            "image": "https://i.ytimg.com/vi/SOJSM46nWwo/hqdefault.jpg",
-            "size": 11.92444896697998,
-            "url": "https://github.com/circuitalmynds/music_m/blob/main/videos/Madness%20-%20One%20Step%20Beyond%20(Official%20Video)-SOJSM46nWwo.mp4?raw=true"
+            "size": 11.92444896697998
         },
         "Maia - Pa' Lante (Cover Audio)-EHcK5mZ2xHI.mp4": {
-            "image": "https://i.ytimg.com/vi/EHcK5mZ2xHI/hqdefault.jpg",
-            "size": 4.325628280639648,
-            "url": "https://github.com/circuitalmynds/music_m/blob/main/videos/Maia%20-%20Pa'%20Lante%20(Cover%20Audio)-EHcK5mZ2xHI.mp4?raw=true"
+            "size": 4.325628280639648
         },
         "Mal\u00fa - Blanco Y Negro (Videoclip)-cbYp1ZB5cGg.mp4": {
-            "image": "https://i.ytimg.com/vi/cbYp1ZB5cGg/hqdefault.jpg",
-            "size": 12.624706268310547,
-            "url": "https://github.com/circuitalmynds/music_m/blob/main/videos/Mal%C3%BA%20-%20Blanco%20Y%20Negro%20(Videoclip)-cbYp1ZB5cGg.mp4?raw=true"
+            "size": 12.624706268310547
         },
         "Mal\u00fa - Te Conozco Desde Siempre (Letra)---3BWPJTMNA.mp4": {
-            "image": "https://circuitalminds.github.io/static/images/desktop/julia.gif",
-            "size": 8.855884552001953,
-            "url": "https://github.com/circuitalmynds/music_m/blob/main/videos/Mal%C3%BA%20-%20Te%20Conozco%20Desde%20Siempre%20(Letra)---3BWPJTMNA.mp4?raw=true"
+            "size": 8.855884552001953
         },
         "Mamou Sidibe - Donsow-iK7dq60pl8g.mp4": {
-            "image": "https://i.ytimg.com/vi/iK7dq60pl8g/hqdefault.jpg",
-            "size": 23.28286838531494,
-            "url": "https://github.com/circuitalmynds/music_m/blob/main/videos/Mamou%20Sidibe%20-%20Donsow-iK7dq60pl8g.mp4?raw=true"
+            "size": 23.28286838531494
         },
         "Mandato Divino-XjdqpFPT57o.mp4": {
-            "image": "https://i.ytimg.com/vi/XjdqpFPT57o/hqdefault.jpg",
-            "size": 4.737979888916016,
-            "url": "https://github.com/circuitalmynds/music_m/blob/main/videos/Mandato%20Divino-XjdqpFPT57o.mp4?raw=true"
+            "size": 4.737979888916016
         },
         "Manu Chao - Circo Caliente-xoopEW7H4ic.mp4": {
-            "image": "https://i.ytimg.com/vi/xoopEW7H4ic/hqdefault.jpg",
-            "size": 7.688357353210449,
-            "url": "https://github.com/circuitalmynds/music_m/blob/main/videos/Manu%20Chao%20-%20Circo%20Caliente-xoopEW7H4ic.mp4?raw=true"
+            "size": 7.688357353210449
         },
         "Manu Chao - D\u00eda Luna...Di\u00e1 Pena-fizb82pfvIM.mp4": {
-            "image": "https://i.ytimg.com/vi/fizb82pfvIM/hqdefault.jpg",
-            "size": 3.6052207946777344,
-            "url": "https://github.com/circuitalmynds/music_m/blob/main/videos/Manu%20Chao%20-%20D%C3%ADa%20Luna...Di%C3%A1%20Pena-fizb82pfvIM.mp4?raw=true"
+            "size": 3.6052207946777344
         },
         "Manu Chao - El Contragolpe-FEtbPI9Pu6I.mp4": {
-            "image": "https://i.ytimg.com/vi/FEtbPI9Pu6I/hqdefault.jpg",
-            "size": 14.029680252075195,
-            "url": "https://github.com/circuitalmynds/music_m/blob/main/videos/Manu%20Chao%20-%20El%20Contragolpe-FEtbPI9Pu6I.mp4?raw=true"
+            "size": 14.029680252075195
         },
         "Manu Chao - Giramundo (Estacion Mexico)-pKfhaCfZkfE.mp4": {
-            "image": "https://i.ytimg.com/vi/pKfhaCfZkfE/hqdefault.jpg",
-            "size": 12.35495376586914,
-            "url": "https://github.com/circuitalmynds/music_m/blob/main/videos/Manu%20Chao%20-%20Giramundo%20(Estacion%20Mexico)-pKfhaCfZkfE.mp4?raw=true"
+            "size": 12.35495376586914
         },
         "Manu Chao - Me Quedo Contigo (Si me das a elegir)-1JMrxyv8B_8.mp4": {
-            "image": "https://i.ytimg.com/vi/1JMrxyv8B_8/hqdefault.jpg",
-            "size": 10.266647338867188,
-            "url": "https://github.com/circuitalmynds/music_m/blob/main/videos/Manu%20Chao%20-%20Me%20Quedo%20Contigo%20(Si%20me%20das%20a%20elegir)-1JMrxyv8B_8.mp4?raw=true"
+            "size": 10.266647338867188
         },
         "Manu Chao - Mr. Bobby-CiuBJI9pZxg.mp4": {
-            "image": "https://i.ytimg.com/vi/CiuBJI9pZxg/hqdefault.jpg",
-            "size": 7.721952438354492,
-            "url": "https://github.com/circuitalmynds/music_m/blob/main/videos/Manu%20Chao%20-%20Mr.%20Bobby-CiuBJI9pZxg.mp4?raw=true"
+            "size": 7.721952438354492
         },
         "Manu Chao - Por ti (Libertad).-Z6waSGV8dSk.mp4": {
-            "image": "https://i.ytimg.com/vi/Z6waSGV8dSk/hqdefault.jpg",
-            "size": 4.536795616149902,
-            "url": "https://github.com/circuitalmynds/music_m/blob/main/videos/Manu%20Chao%20-%20Por%20ti%20(Libertad).-Z6waSGV8dSk.mp4?raw=true"
+            "size": 4.536795616149902
         },
         "Marca MP - Ya Acab\u00f3 (En Vivo)-fG4K_a_B0DE.mp4": {
-            "image": "https://i.ytimg.com/vi/fG4K_a_B0DE/hqdefault.jpg",
-            "size": 13.289183616638184,
-            "url": "https://github.com/circuitalmynds/music_m/blob/main/videos/Marca%20MP%20-%20Ya%20Acab%C3%B3%20(En%20Vivo)-fG4K_a_B0DE.mp4?raw=true"
+            "size": 13.289183616638184
         },
         "Marcos Brunet - Llevame a Tu Casa-oYcHgFngLKw.mp4": {
-            "image": "https://i.ytimg.com/vi/oYcHgFngLKw/hqdefault.jpg",
-            "size": 22.136387825012207,
-            "url": "https://github.com/circuitalmynds/music_m/blob/main/videos/Marcos%20Brunet%20-%20Llevame%20a%20Tu%20Casa-oYcHgFngLKw.mp4?raw=true"
+            "size": 22.136387825012207
         },
         "Mariachi Sol de Mexico (Maria Madrugada)-PQbv0NVIf2k.mp4": {
-            "image": "https://i.ytimg.com/vi/PQbv0NVIf2k/hqdefault.jpg",
-            "size": 9.324772834777832,
-            "url": "https://github.com/circuitalmynds/music_m/blob/main/videos/Mariachi%20Sol%20de%20Mexico%20(Maria%20Madrugada)-PQbv0NVIf2k.mp4?raw=true"
+            "size": 9.324772834777832
         },
         "Mariconatico-FhEUGT7zE8Q.mp4": {
-            "image": "https://i.ytimg.com/vi/FhEUGT7zE8Q/hqdefault.jpg",
-            "size": 7.944270133972168,
-            "url": "https://github.com/circuitalmynds/music_m/blob/main/videos/Mariconatico-FhEUGT7zE8Q.mp4?raw=true"
+            "size": 7.944270133972168
         },
         "Marigold-Brv-lCLttyg.mp4": {
-            "image": "https://circuitalminds.github.io/static/images/desktop/julia.gif",
-            "size": 3.043394088745117,
-            "url": "https://github.com/circuitalmynds/music_m/blob/main/videos/Marigold-Brv-lCLttyg.mp4?raw=true"
+            "size": 3.043394088745117
         },
         "Mariya Takeuchi \u7af9\u5185 \u307e\u308a\u3084 Plastic Love-3bNITQR4Uso.mp4": {
-            "image": "https://i.ytimg.com/vi/3bNITQR4Uso/hqdefault.jpg",
-            "size": 11.110018730163574,
-            "url": "https://github.com/circuitalmynds/music_m/blob/main/videos/Mariya%20Takeuchi%20%E7%AB%B9%E5%86%85%20%E3%81%BE%E3%82%8A%E3%82%84%20Plastic%20Love-3bNITQR4Uso.mp4?raw=true"
+            "size": 11.110018730163574
         },
         "Maroon 5 - Love Somebody (Official Music Video)-MU8B4XDI3Uw.mp4": {
-            "image": "https://i.ytimg.com/vi/MU8B4XDI3Uw/hqdefault.jpg",
-            "size": 12.335220336914062,
-            "url": "https://github.com/circuitalmynds/music_m/blob/main/videos/Maroon%205%20-%20Love%20Somebody%20(Official%20Music%20Video)-MU8B4XDI3Uw.mp4?raw=true"
+            "size": 12.335220336914062
         },
         "Maroon 5 - One More Night (Official Music Video)-fwK7ggA3-bU.mp4": {
-            "image": "https://circuitalminds.github.io/static/images/desktop/julia.gif",
-            "size": 14.204259872436523,
-            "url": "https://github.com/circuitalmynds/music_m/blob/main/videos/Maroon%205%20-%20One%20More%20Night%20(Official%20Music%20Video)-fwK7ggA3-bU.mp4?raw=true"
+            "size": 14.204259872436523
         },
         "Mas Guapa Que Cualquiera - Joaquin Sabina, Andres Calamaro & Fito Paez-JnBiwgvxu4g.mp4": {
-            "image": "https://i.ytimg.com/vi/JnBiwgvxu4g/hqdefault.jpg",
-            "size": 5.213310241699219,
-            "url": "https://github.com/circuitalmynds/music_m/blob/main/videos/Mas%20Guapa%20Que%20Cualquiera%20-%20Joaquin%20Sabina%2C%20Andres%20Calamaro%20%26%20Fito%20Paez-JnBiwgvxu4g.mp4?raw=true"
+            "size": 5.213310241699219
         },
         "Me Lo Paso Por El Culo-ZEcyB4jLYKo.mp4": {
-            "image": "https://i.ytimg.com/vi/ZEcyB4jLYKo/hqdefault.jpg",
-            "size": 0.4169321060180664,
-            "url": "https://github.com/circuitalmynds/music_m/blob/main/videos/Me%20Lo%20Paso%20Por%20El%20Culo-ZEcyB4jLYKo.mp4?raw=true"
+            "size": 0.4169321060180664
         },
         "Me Reflejo en Ti-xjhir8eZtFw.mp4": {
-            "image": "https://i.ytimg.com/vi/xjhir8eZtFw/hqdefault.jpg",
-            "size": 5.259283065795898,
-            "url": "https://github.com/circuitalmynds/music_m/blob/main/videos/Me%20Reflejo%20en%20Ti-xjhir8eZtFw.mp4?raw=true"
+            "size": 5.259283065795898
         },
         "Me Tienes-Pesado-EgKTUwI7kUI.mp4": {
-            "image": "https://i.ytimg.com/vi/EgKTUwI7kUI/hqdefault.jpg",
-            "size": 5.805904388427734,
-            "url": "https://github.com/circuitalmynds/music_m/blob/main/videos/Me%20Tienes-Pesado-EgKTUwI7kUI.mp4?raw=true"
+            "size": 5.805904388427734
         },
         "Meat Is Murder (2011 Remaster)-eviyEJRZX30.mp4": {
-            "image": "https://i.ytimg.com/vi/eviyEJRZX30/hqdefault.jpg",
-            "size": 13.765302658081055,
-            "url": "https://github.com/circuitalmynds/music_m/blob/main/videos/Meat%20Is%20Murder%20(2011%20Remaster)-eviyEJRZX30.mp4?raw=true"
+            "size": 13.765302658081055
         },
         "Mecano - Naturaleza Muerta (Videoclip.)-jW3mqNdw8BQ.mp4": {
-            "image": "https://i.ytimg.com/vi/jW3mqNdw8BQ/hqdefault.jpg",
-            "size": 12.895623207092285,
-            "url": "https://github.com/circuitalmynds/music_m/blob/main/videos/Mecano%20-%20Naturaleza%20Muerta%20(Videoclip.)-jW3mqNdw8BQ.mp4?raw=true"
+            "size": 12.895623207092285
         },
         "Medalla de cart\u00f3n-Z9jETAkiM5I.mp4": {
-            "image": "https://i.ytimg.com/vi/Z9jETAkiM5I/hqdefault.jpg",
-            "size": 8.476469993591309,
-            "url": "https://github.com/circuitalmynds/music_m/blob/main/videos/Medalla%20de%20cart%C3%B3n-Z9jETAkiM5I.mp4?raw=true"
+            "size": 8.476469993591309
         },
         "Mejor Solo-UL63NIXOTK4.mp4": {
-            "image": "https://i.ytimg.com/vi/UL63NIXOTK4/hqdefault.jpg",
-            "size": 3.642209053039551,
-            "url": "https://github.com/circuitalmynds/music_m/blob/main/videos/Mejor%20Solo-UL63NIXOTK4.mp4?raw=true"
+            "size": 3.642209053039551
         },
         "Melodic Meal-8F1zdftbuK4.mp4": {
-            "image": "https://i.ytimg.com/vi/8F1zdftbuK4/hqdefault.jpg",
-            "size": 2.1727256774902344,
-            "url": "https://github.com/circuitalmynds/music_m/blob/main/videos/Melodic%20Meal-8F1zdftbuK4.mp4?raw=true"
+            "size": 2.1727256774902344
         },
         "Metallica - All Nightmare Long (Official Music Video)-EFqjDXy9s5A.mp4": {
-            "image": "https://i.ytimg.com/vi/EFqjDXy9s5A/hqdefault.jpg",
-            "size": 34.60705280303955,
-            "url": "https://github.com/circuitalmynds/music_m/blob/main/videos/Metallica%20-%20All%20Nightmare%20Long%20(Official%20Music%20Video)-EFqjDXy9s5A.mp4?raw=true"
+            "size": 34.60705280303955
+        },
+        "Metallica - Damage, Inc. (HD)-h7e9Ww_wowU.mp4": {
+            "size": 9.432600975036621
         },
         "Metallica - Leper Messiah (HD)-NgRs4DCpLKs.mp4": {
-            "image": "https://i.ytimg.com/vi/NgRs4DCpLKs/hqdefault.jpg",
-            "size": 8.6264066696167,
-            "url": "https://github.com/circuitalmynds/music_m/blob/main/videos/Metallica%20-%20Leper%20Messiah%20(HD)-NgRs4DCpLKs.mp4?raw=true"
+            "size": 8.6264066696167
         },
         "Metallica - The Day That Never Comes (Official Music Video)-dkNfNR1WYMY.mp4": {
-            "image": "https://i.ytimg.com/vi/dkNfNR1WYMY/hqdefault.jpg",
-            "size": 24.29889678955078,
-            "url": "https://github.com/circuitalmynds/music_m/blob/main/videos/Metallica%20-%20The%20Day%20That%20Never%20Comes%20(Official%20Music%20Video)-dkNfNR1WYMY.mp4?raw=true"
+            "size": 24.29889678955078
         },
         "Metiendo Sal En La Llaga-dZWLerxUsh0.mp4": {
-            "image": "https://i.ytimg.com/vi/dZWLerxUsh0/hqdefault.jpg",
-            "size": 2.3807525634765625,
-            "url": "https://github.com/circuitalmynds/music_m/blob/main/videos/Metiendo%20Sal%20En%20La%20Llaga-dZWLerxUsh0.mp4?raw=true"
+            "size": 2.3807525634765625
         },
         "Mezclando pasiones - Estigi\u00e4   (Jam\u00e1s el ojo humano contempl\u00f3 tanto dolor)-n7lHiKaXglA.mp4": {
-            "image": "https://i.ytimg.com/vi/n7lHiKaXglA/hqdefault.jpg",
-            "size": 2.164012908935547,
-            "url": "https://github.com/circuitalmynds/music_m/blob/main/videos/Mezclando%20pasiones%20-%20Estigi%C3%A4%20%20%20(Jam%C3%A1s%20el%20ojo%20humano%20contempl%C3%B3%20tanto%20dolor)-n7lHiKaXglA.mp4?raw=true"
+            "size": 2.164012908935547
+        },
+        "Mi Adoraci\u00f3n - Con Cantos de Libertad-nnzMpkVRkX4.mp4": {
+            "size": 14.01301097869873
         },
         "Mi Consentida-7gpUN4XX8Gw.mp4": {
-            "image": "https://i.ytimg.com/vi/7gpUN4XX8Gw/hqdefault.jpg",
-            "size": 3.8287181854248047,
-            "url": "https://github.com/circuitalmynds/music_m/blob/main/videos/Mi%20Consentida-7gpUN4XX8Gw.mp4?raw=true"
+            "size": 3.8287181854248047
+        },
+        "Mi Huerfano Alazan-58AdDT5F14A.mp4": {
+            "size": 1.8996458053588867
         },
         "Mi nueva canci\u00f3n-oJCece6tA-w.mp4": {
-            "image": "https://circuitalminds.github.io/static/images/desktop/julia.gif",
-            "size": 4.917353630065918,
-            "url": "https://github.com/circuitalmynds/music_m/blob/main/videos/Mi%20nueva%20canci%C3%B3n-oJCece6tA-w.mp4?raw=true"
+            "size": 4.917353630065918
         },
         "Miles to Memphis-ypDzOQsYyPM.mp4": {
-            "image": "https://i.ytimg.com/vi/ypDzOQsYyPM/hqdefault.jpg",
-            "size": 6.870928764343262,
-            "url": "https://github.com/circuitalmynds/music_m/blob/main/videos/Miles%20to%20Memphis-ypDzOQsYyPM.mp4?raw=true"
+            "size": 6.870928764343262
         },
         "Miley Cyrus - When I Look At You (Lyrics) \ud83c\udfb5-ddu2uXp9h3o.mp4": {
-            "image": "https://i.ytimg.com/vi/ddu2uXp9h3o/hqdefault.jpg",
-            "size": 13.333483695983887,
-            "url": "https://github.com/circuitalmynds/music_m/blob/main/videos/Miley%20Cyrus%20-%20When%20I%20Look%20At%20You%20(Lyrics)%20%F0%9F%8E%B5-ddu2uXp9h3o.mp4?raw=true"
+            "size": 13.333483695983887
         },
         "Mimosas Y Acacias-CqqdhB_xdEw.mp4": {
-            "image": "https://i.ytimg.com/vi/CqqdhB_xdEw/hqdefault.jpg",
-            "size": 16.730003356933594,
-            "url": "https://github.com/circuitalmynds/music_m/blob/main/videos/Mimosas%20Y%20Acacias-CqqdhB_xdEw.mp4?raw=true"
+            "size": 16.730003356933594
         },
         "Miranda That Ghost Just Isn't Holy Anymore-1ekQWISrSxE.mp4": {
-            "image": "https://i.ytimg.com/vi/1ekQWISrSxE/hqdefault.jpg",
-            "size": 23.68789005279541,
-            "url": "https://github.com/circuitalmynds/music_m/blob/main/videos/Miranda%20That%20Ghost%20Just%20Isn't%20Holy%20Anymore-1ekQWISrSxE.mp4?raw=true"
+            "size": 23.68789005279541
         },
         "Mireya-nYvbEJ1DUhw.mp4": {
-            "image": "https://i.ytimg.com/vi/nYvbEJ1DUhw/hqdefault.jpg",
-            "size": 7.160883903503418,
-            "url": "https://github.com/circuitalmynds/music_m/blob/main/videos/Mireya-nYvbEJ1DUhw.mp4?raw=true"
+            "size": 7.160883903503418
         },
         "Miro la ventana (Neurastenia con Robe)-6W3C_zf4Xlw.mp4": {
-            "image": "https://i.ytimg.com/vi/6W3C_zf4Xlw/hqdefault.jpg",
-            "size": 4.782134056091309,
-            "url": "https://github.com/circuitalmynds/music_m/blob/main/videos/Miro%20la%20ventana%20(Neurastenia%20con%20Robe)-6W3C_zf4Xlw.mp4?raw=true"
+            "size": 4.782134056091309
         },
         "Miserlou-mKpsuGMeqHI.mp4": {
-            "image": "https://i.ytimg.com/vi/mKpsuGMeqHI/hqdefault.jpg",
-            "size": 3.4336719512939453,
-            "url": "https://github.com/circuitalmynds/music_m/blob/main/videos/Miserlou-mKpsuGMeqHI.mp4?raw=true"
+            "size": 3.4336719512939453
         },
         "Misfits - American Psycho-OzYdMSAkGqA.mp4": {
-            "image": "https://i.ytimg.com/vi/OzYdMSAkGqA/hqdefault.jpg",
-            "size": 10.77607250213623,
-            "url": "https://github.com/circuitalmynds/music_m/blob/main/videos/Misfits%20-%20American%20Psycho-OzYdMSAkGqA.mp4?raw=true"
+            "size": 10.77607250213623
         },
         "Misfits - Dig Up Her Bones (Official Video)-lgSLz5FeXUg.mp4": {
-            "image": "https://i.ytimg.com/vi/lgSLz5FeXUg/hqdefault.jpg",
-            "size": 14.11547565460205,
-            "url": "https://github.com/circuitalmynds/music_m/blob/main/videos/Misfits%20-%20Dig%20Up%20Her%20Bones%20(Official%20Video)-lgSLz5FeXUg.mp4?raw=true"
+            "size": 14.11547565460205
         },
         "Miuzi Weighs A Ton-UMv5R2ioitU.mp4": {
-            "image": "https://i.ytimg.com/vi/UMv5R2ioitU/hqdefault.jpg",
-            "size": 12.096221923828125,
-            "url": "https://github.com/circuitalmynds/music_m/blob/main/videos/Miuzi%20Weighs%20A%20Ton-UMv5R2ioitU.mp4?raw=true"
+            "size": 12.096221923828125
         },
         "Mi\u00f1a terra galega (Sweet Home Alabama)-FqocsS2KCIg.mp4": {
-            "image": "https://i.ytimg.com/vi/FqocsS2KCIg/hqdefault.jpg",
-            "size": 7.776248931884766,
-            "url": "https://github.com/circuitalmynds/music_m/blob/main/videos/Mi%C3%B1a%20terra%20galega%20(Sweet%20Home%20Alabama)-FqocsS2KCIg.mp4?raw=true"
+            "size": 7.776248931884766
         },
         "Mobster Paradise Letra-qOOAAxkNEKc.mp4": {
-            "image": "https://i.ytimg.com/vi/qOOAAxkNEKc/hqdefault.jpg",
-            "size": 13.192566871643066,
-            "url": "https://github.com/circuitalmynds/music_m/blob/main/videos/Mobster%20Paradise%20Letra-qOOAAxkNEKc.mp4?raw=true"
+            "size": 13.192566871643066
         },
         "Morat - Amor Con Hielo-1P5eDa_Kn2M.mp4": {
-            "image": "https://i.ytimg.com/vi/1P5eDa_Kn2M/hqdefault.jpg",
-            "size": 14.949336051940918,
-            "url": "https://github.com/circuitalmynds/music_m/blob/main/videos/Morat%20-%20Amor%20Con%20Hielo-1P5eDa_Kn2M.mp4?raw=true"
+            "size": 14.949336051940918
         },
         "Mot\u00f6rhead - Built For Speed-8a1m9jUNJsk.mp4": {
-            "image": "https://i.ytimg.com/vi/8a1m9jUNJsk/hqdefault.jpg",
-            "size": 10.611714363098145,
-            "url": "https://github.com/circuitalmynds/music_m/blob/main/videos/Mot%C3%B6rhead%20-%20Built%20For%20Speed-8a1m9jUNJsk.mp4?raw=true"
+            "size": 10.611714363098145
         },
         "Mounts and Mountains-WPxgaEeY2cg.mp4": {
-            "image": "https://i.ytimg.com/vi/WPxgaEeY2cg/hqdefault.jpg",
-            "size": 9.025530815124512,
-            "url": "https://github.com/circuitalmynds/music_m/blob/main/videos/Mounts%20and%20Mountains-WPxgaEeY2cg.mp4?raw=true"
+            "size": 9.025530815124512
         },
         "Mr. Jack-J3XnZyz__oU.mp4": {
-            "image": "https://i.ytimg.com/vi/J3XnZyz__oU/hqdefault.jpg",
-            "size": 3.707217216491699,
-            "url": "https://github.com/circuitalmynds/music_m/blob/main/videos/Mr.%20Jack-J3XnZyz__oU.mp4?raw=true"
+            "size": 3.707217216491699
+        },
+        "Muere en paz-OR5fi0-OzXs.mp4": {
+            "size": 4.602797508239746
         },
         "Mujer Bonita-KMkfO7rAPmI.mp4": {
-            "image": "https://i.ytimg.com/vi/KMkfO7rAPmI/hqdefault.jpg",
-            "size": 3.2979726791381836,
-            "url": "https://github.com/circuitalmynds/music_m/blob/main/videos/Mujer%20Bonita-KMkfO7rAPmI.mp4?raw=true"
+            "size": 3.2979726791381836
+        },
+        "Muse - Bliss-eMqsWc8muj8.mp4": {
+            "size": 17.543643951416016
+        },
+        "Muse - Plug In Baby (Official Video)-dbB-mICjkQM.mp4": {
+            "size": 12.98905086517334
+        },
+        "Muse - Time Is Running Out (video)-O2IuJPh6h_A.mp4": {
+            "size": 12.09610366821289
         },
         "My Apocalypse-NqpPNRmGNOk.mp4": {
-            "image": "https://i.ytimg.com/vi/NqpPNRmGNOk/hqdefault.jpg",
-            "size": 12.561037063598633,
-            "url": "https://github.com/circuitalmynds/music_m/blob/main/videos/My%20Apocalypse-NqpPNRmGNOk.mp4?raw=true"
+            "size": 12.561037063598633
+        },
+        "My Baby Left Me-pfGpSbPhHEw.mp4": {
+            "size": 4.579412460327148
+        },
+        "My Baby's Gone, On, On ~ Johnnie & Joe (1957)(78 rpm)-gDNj0Kv1I7Q.mp4": {
+            "size": 6.13953971862793
         },
         "My Best Friend-TKQJN0g9Gew.mp4": {
-            "image": "https://i.ytimg.com/vi/TKQJN0g9Gew/hqdefault.jpg",
-            "size": 6.663834571838379,
-            "url": "https://github.com/circuitalmynds/music_m/blob/main/videos/My%20Best%20Friend-TKQJN0g9Gew.mp4?raw=true"
+            "size": 6.663834571838379
+        },
+        "My Buddy Seat-bAdPEZyJUlY.mp4": {
+            "size": 1.9481754302978516
+        },
+        "My Darling, My Darling ~ Jaye P. Morgan (1959)-eB4E998JTks.mp4": {
+            "size": 3.287088394165039
+        },
+        "My Future Just Passed ~ Don Cherry (1956)-OakDscLgEWA.mp4": {
+            "size": 4.821718215942383
+        },
+        "My Girl ~ The Eternals (1959)-VYgrJzDOmtI.mp4": {
+            "size": 5.2209882736206055
+        },
+        "My Kingdom-2q1RWbAqYtU.mp4": {
+            "size": 7.811103820800781
         },
         "My Little Bike-ub30dxHb2ek.mp4": {
-            "image": "https://i.ytimg.com/vi/ub30dxHb2ek/hqdefault.jpg",
-            "size": 2.3192453384399414,
-            "url": "https://github.com/circuitalmynds/music_m/blob/main/videos/My%20Little%20Bike-ub30dxHb2ek.mp4?raw=true"
+            "size": 2.3192453384399414
+        },
+        "My Morning Jacket    Phone Went West    Red Rocks August 4, 2012-M2xZAWgJ8rE.mp4": {
+            "size": 36.089120864868164
+        },
+        "My Morning Jacket 'Touch Me I'm Going To Scream Part II'-Bpdwwa7lsUI.mp4": {
+            "size": 13.385891914367676
+        },
+        "My Morning Jacket - Circuital (Sub. Espanol)-tARFYFQIGaQ.mp4": {
+            "size": 9.785867691040039
         },
         "My Morning Jacket - Golden-gPnWLIBO2Fo.mp4": {
-            "image": "https://i.ytimg.com/vi/gPnWLIBO2Fo/hqdefault.jpg",
-            "size": 7.64653205871582,
-            "url": "https://github.com/circuitalmynds/music_m/blob/main/videos/My%20Morning%20Jacket%20-%20Golden-gPnWLIBO2Fo.mp4?raw=true"
+            "size": 7.64653205871582
         },
         "My Morning Jacket - Just One Thing-R_XdNn5a9dY.mp4": {
-            "image": "https://i.ytimg.com/vi/R_XdNn5a9dY/hqdefault.jpg",
-            "size": 8.110605239868164,
-            "url": "https://github.com/circuitalmynds/music_m/blob/main/videos/My%20Morning%20Jacket%20-%20Just%20One%20Thing-R_XdNn5a9dY.mp4?raw=true"
+            "size": 8.110605239868164
         },
         "My Morning Jacket - Mahgeetah-jdSiIVwyhz4.mp4": {
-            "image": "https://i.ytimg.com/vi/jdSiIVwyhz4/hqdefault.jpg",
-            "size": 6.489307403564453,
-            "url": "https://github.com/circuitalmynds/music_m/blob/main/videos/My%20Morning%20Jacket%20-%20Mahgeetah-jdSiIVwyhz4.mp4?raw=true"
+            "size": 6.489307403564453
         },
-        "Smithers-Jones-1zSUyeI1E1Q.mp4": {
-            "image": "https://i.ytimg.com/vi/1zSUyeI1E1Q/hqdefault.jpg",
-            "size": 6.350516319274902,
-            "url": "https://github.com/circuitalmynds/music_m/blob/main/videos/Smithers-Jones-1zSUyeI1E1Q.mp4?raw=true"
+        "My Morning Jacket - Rocket Man (Subtitulada en Espa\u00f1ol)-r-zxJhTOapA.mp4": {
+            "size": 13.706474304199219
+        },
+        "My Name Is Jonas-wxlfkFMjLZc.mp4": {
+            "size": 5.282345771789551
+        },
+        "Myke Towers - La Playa (Video Oficial)-iFImB0TOKP4.mp4": {
+            "size": 15.42632007598877
         },
         "mambo Rock Alfredito Linares-1Pc-lrJ36rc.mp4": {
-            "image": "https://circuitalminds.github.io/static/images/desktop/julia.gif",
-            "size": 7.690023422241211,
-            "url": "https://github.com/circuitalmynds/music_m/blob/main/videos/mambo%20Rock%20Alfredito%20Linares-1Pc-lrJ36rc.mp4?raw=true"
+            "size": 7.690023422241211
         },
         "manu chao-la primavera+me gustas tu-RqDE20auDH8.mp4": {
-            "image": "https://i.ytimg.com/vi/RqDE20auDH8/hqdefault.jpg",
-            "size": 15.837408065795898,
-            "url": "https://github.com/circuitalmynds/music_m/blob/main/videos/manu%20chao-la%20primavera%2Bme%20gustas%20tu-RqDE20auDH8.mp4?raw=true"
+            "size": 15.837408065795898
+        },
+        "murio mi padre conjunto primavera.mp4": {
+            "size": 5.706813812255859
+        },
+        "musical youth - never gonna give you up-0L38PlN2msc.mp4": {
+            "size": 11.037742614746094
         }
     }
 }
