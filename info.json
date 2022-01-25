@@ -1,6 +1,7 @@
 {
     "available_space": true,
-    "files": [
+    "total_size": 956.4551999999999,
+    "videos": [
         "MAKILADORAS - Niemand Weet Wat De Toekomst Brengt-ynDdMg1vgiw.mp4",
         "Mireya-nYvbEJ1DUhw.mp4",
         "Mamou Sidibe - Donsow-iK7dq60pl8g.mp4",
@@ -86,7 +87,5 @@
         "My Morning Jacket - Circuital (Sub. Espanol)-tARFYFQIGaQ.mp4",
         "Manu Chao - Por ti (Libertad).-Z6waSGV8dSk.mp4",
         "MERCEDES SOSA - Soy pan, soy paz, soy más (HD)-0SL6BEgaFIU.mp4"
-    ],
-    "id": "m",
-    "total_size": 912.1467939453132
+    ]
 }
