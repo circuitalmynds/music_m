@@ -237,6 +237,11 @@
             "size": 22.359663616000002
         },
         {
+            "name": "Franz Schubert (2009 Remaster)-twlZ9t4Gg1E.mp4",
+            "path": "music_m/videos/Franz Schubert (2009 Remaster)-twlZ9t4Gg1E.mp4",
+            "size": 5.364179968
+        },
+        {
             "name": "Metallica - All Nightmare Long (Official Music Video)-EFqjDXy9s5A.mp4",
             "path": "music_m/videos/Metallica - All Nightmare Long (Official Music Video)-EFqjDXy9s5A.mp4",
             "size": 37.159040000000005
@@ -417,5 +422,5 @@
             "size": 17.387731968
         }
     ],
-    "total_size": 927.90153216
+    "total_size": 933.265712128
 }
