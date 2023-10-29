@@ -1,13 +1,6 @@
 {
-    "available_space": false,
+    "available_space": true,
     "content": [
-        {
-            "id": "Z36qroO21pE",
-            "name": "Moonspell - Lua D'Inverno.-Z36qroO21pE.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/m/videos/Moonspell - Lua D'Inverno.-Z36qroO21pE.mp4",
-            "size": 4.215098,
-            "url": "https://github.com/circuitalmynds/music_m/blob/main/videos/Moonspell - Lua D'Inverno.-Z36qroO21pE.mp4?raw=true"
-        },
         {
             "id": "gDNj0Kv1I7Q",
             "name": "My Baby's Gone, On, On ~ Johnnie & Joe (1957)(78 rpm)-gDNj0Kv1I7Q.mp4",
@@ -114,13 +107,6 @@
             "url": "https://github.com/circuitalmynds/music_m/blob/main/videos/Miserlou-mKpsuGMeqHI.mp4?raw=true"
         },
         {
-            "id": "SOJSM46nWwo",
-            "name": "Madness - One Step Beyond (Official Video)-SOJSM46nWwo.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/m/videos/Madness - One Step Beyond (Official Video)-SOJSM46nWwo.mp4",
-            "size": 12.503691,
-            "url": "https://github.com/circuitalmynds/music_m/blob/main/videos/Madness - One Step Beyond (Official Video)-SOJSM46nWwo.mp4?raw=true"
-        },
-        {
             "id": "nrLYljedMXE",
             "name": "MARCA REGISTRADA _ SIGAN ATENTOS (2020)-nrLYljedMXE.mp4",
             "path": "/home/alanmatzumiya/Videos/container/m/videos/MARCA REGISTRADA _ SIGAN ATENTOS (2020)-nrLYljedMXE.mp4",
@@ -170,13 +156,6 @@
             "url": "https://github.com/circuitalmynds/music_m/blob/main/videos/Mujer Bonita-KMkfO7rAPmI.mp4?raw=true"
         },
         {
-            "id": "lgSLz5FeXUg",
-            "name": "Misfits - Dig Up Her Bones (Official Video)-lgSLz5FeXUg.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/m/videos/Misfits - Dig Up Her Bones (Official Video)-lgSLz5FeXUg.mp4",
-            "size": 14.801148999999999,
-            "url": "https://github.com/circuitalmynds/music_m/blob/main/videos/Misfits - Dig Up Her Bones (Official Video)-lgSLz5FeXUg.mp4?raw=true"
-        },
-        {
             "id": "EFqjDXy9s5A",
             "name": "Metallica - All Nightmare Long (Official Music Video)-EFqjDXy9s5A.mp4",
             "path": "/home/alanmatzumiya/Videos/container/m/videos/Metallica - All Nightmare Long (Official Music Video)-EFqjDXy9s5A.mp4",
@@ -210,13 +189,6 @@
             "path": "/home/alanmatzumiya/Videos/container/m/videos/Me Tienes-Pesado-EgKTUwI7kUI.mp4",
             "size": 6.0879319999999995,
             "url": "https://github.com/circuitalmynds/music_m/blob/main/videos/Me Tienes-Pesado-EgKTUwI7kUI.mp4?raw=true"
-        },
-        {
-            "id": "B9dSYgd5Elk",
-            "name": "MGMT - Time to Pretend (Official HD Video)-B9dSYgd5Elk.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/m/videos/MGMT - Time to Pretend (Official HD Video)-B9dSYgd5Elk.mp4",
-            "size": 22.124813,
-            "url": "https://github.com/circuitalmynds/music_m/blob/main/videos/MGMT - Time to Pretend (Official HD Video)-B9dSYgd5Elk.mp4?raw=true"
         },
         {
             "id": "0SL6BEgaFIU",
@@ -625,5 +597,5 @@
             "url": "https://github.com/circuitalmynds/music_m/blob/main/videos/Miranda That Ghost Just Isn't Holy Anymore-1ekQWISrSxE.mp4?raw=true"
         }
     ],
-    "total_size": 991.6907749999999
+    "total_size": 938.046024
 }
